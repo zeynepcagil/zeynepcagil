@@ -1,5 +1,4 @@
 ### Hi there, I'm Zeynep Çağıl! 👋
-
 I'm a **Computer Engineering** student at **Celal Bayar University**.  
 Currently focused on **data analysis, machine learning**, and **game development**.  
 I enjoy working on real-world problems through code and collaborating on creative technical projects! 🚀
@@ -7,15 +6,19 @@ I enjoy working on real-world problems through code and collaborating on creativ
 ---
 
 ### 🛠️ Technologies & Tools
-
 🔹 **Languages:** Python, Java, C#, PostgreSQL  
 📊 **Data Science & ML:** Pandas, Scikit-learn, LightGBM, OpenCV  
+🤖 **AI & NLP:** LangChain, HuggingFace, ChromaDB, RAG Systems  
 🎮 **Game Development:** Unreal Engine (Blueprints + C++)  
 🛠️ **Version Control:** Git & GitHub
 
 ---
 
 ### 📌 Featured Projects
+
+📚 **[Knowledge Scout](https://github.com/zeynepcagil/knowledge-scout)**  
+A RAG (Retrieval-Augmented Generation) system that processes CSV/TXT files and answers questions using vector databases.  
+Built with LangChain, ChromaDB, and HuggingFace embeddings. Features multiple LLM support and interactive CLI.
 
 🧠 **[Health Risk Analysis](https://github.com/zeynepcagil/HealthRiskAnalysis)**  
 A machine learning project that predicts chronic health risks based on patient data.  
@@ -32,7 +35,6 @@ A challenge-based repo including mini projects and exercises built during 100 da
 ---
 
 ### 📫 Connect with Me
-
 📧 **Email:** zzeynepcagil@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeynep-%C3%A7a%C4%9F%C4%B1l-635179302/)  
 
