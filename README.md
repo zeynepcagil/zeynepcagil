@@ -16,9 +16,9 @@ I enjoy working on real-world problems through code and collaborating on creativ
 
 ### 📌 Featured Projects
 
-📚 **[Knowledge Scout](https://github.com/zeynepcagil/knowledge-scout)**  
-A RAG (Retrieval-Augmented Generation) system that processes CSV/TXT files and answers questions using vector databases.  
-Built with LangChain, ChromaDB, and HuggingFace embeddings. Features multiple LLM support and interactive CLI.
+🎬 **[Film Buddy](https://github.com/zeynepcagil/FilmBuddy)**
+A chat-based personal movie and TV show recommendation assistant. The system uses a powerful **RAG pipeline** to retrieve information and a **hybrid search** (BM25 and vector search) for highly relevant suggestions. The assistant's conversation flow is powered by an **LLM**, which understands the user's mood and conversation context.
+The project also includes a simple and interactive web UI built with Flask.
 
 🧠 **[Health Risk Analysis](https://github.com/zeynepcagil/HealthRiskAnalysis)**  
 A machine learning project that predicts chronic health risks based on patient data.  
