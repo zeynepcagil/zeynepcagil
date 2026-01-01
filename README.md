@@ -1,36 +1,40 @@
 ### Hi there, I'm Zeynep Çağıl! 👋
 I'm a **Computer Engineering** student at **Celal Bayar University**.  
-Currently focused on **data analysis, machine learning**, and **game development**.  
-I enjoy working on real-world problems through code and collaborating on creative technical projects! 🚀
+Currently focused on **backend engineering, game development**, and **AI systems**.  
+I enjoy working on complex architectural problems through code and collaborating on creative technical projects! 🚀
 
 ---
 
 ### 🛠️ Technologies & Tools
-🔹 **Languages:** Python, Java, C#, PostgreSQL  
+🔹 **Languages:** C#, Python, Java, SQL  
+⚙️ **Backend & Network:** .NET (Core/Framework), ASP.NET MVC, Socket Programming (TCP/UDP), Entity Framework  
 📊 **Data Science & ML:** Pandas, Scikit-learn, LightGBM, OpenCV  
 🤖 **AI & NLP:** LangChain, HuggingFace, ChromaDB, RAG Systems  
 🎮 **Game Development:** Unreal Engine (Blueprints + C++)  
-🛠️ **Version Control:** Git & GitHub
+🛠️ **DevOps & Tools:** Git & GitHub, SQL Server
 
 ---
 
 ### 📌 Featured Projects
 
+⚔️ **[Crypt Arena (Network Programming)](https://github.com/zeynepcagil/GameServer)** A real-time multiplayer CLI game built with a **Hybrid TCP/UDP Architecture**.  
+* **Tech:** C#, .NET Sockets, Multi-threading, Mutex/Locks.  
+* **Key Features:** Implemented a **thread-safe server** to prevent race conditions, used TCP for reliable state management and UDP for high-frequency movement updates.  
+* 📄 Includes a comprehensive technical paper in IEEE format.
+
+📚 **[Library Automation System](https://github.com/zeynepcagil/LibraryProject)** A full-stack web application for managing library operations.  
+* **Tech:** ASP.NET MVC, SQL Server, Entity Framework, Bootstrap.  
+* **Role:** Co-developed the **Backend Architecture** in a collaborative environment. Managed database schemas, controller logic, and complex Git workflows (branches/merges).
+
 🎬 **[Film Buddy](https://github.com/zeynepcagil/FilmBuddy)**
-A chat-based personal movie and TV show recommendation assistant. The system uses a powerful **RAG pipeline** to retrieve information and a **hybrid search** (BM25 and vector search) for highly relevant suggestions. The assistant's conversation flow is powered by an **LLM**, which understands the user's mood and conversation context.
-The project also includes a simple and interactive web UI built with Flask.
+A chat-based personal movie/TV show recommendation assistant.  
+* **Tech:** Python, Flask, LangChain, OpenAI API.  
+* **Key Features:** Uses a powerful **RAG pipeline** with **hybrid search** (BM25 + Vector) to provide context-aware recommendations based on user mood.
 
-🧠 **[Health Risk Analysis](https://github.com/zeynepcagil/HealthRiskAnalysis)**  
-A machine learning project that predicts chronic health risks based on patient data.  
-Uses Logistic Regression, SVM, and LightGBM models with up to **80% accuracy**.  
-📄 Includes full technical report and narrated video explanation.
+🎮 **[Necromancer's Last Stand (Steam Page)](https://store.steampowered.com/app/3705620/Necromancers_Last_Stand/)** An indie action-RPG developed in Unreal Engine 5.  
+* *Note:* A commercial project demonstrating game design, 3D logic, and product delivery skills.
 
-🎮 **[Necromancer's Last Stand (Steam Page)](https://store.steampowered.com/app/3705620/Necromancers_Last_Stand/)**  
-An indie action-RPG developed in Unreal Engine 5.  
-*Note:* Codebase is not open-source, but development and publishing are ongoing.
-
-🐍 **[100 Days of Python](https://github.com/zeynepcagil/100-Days-of-Python)**  
-A challenge-based repo including mini projects and exercises built during 100 days of Python practice.
+🧠 **[Health Risk Analysis](https://github.com/zeynepcagil/HealthRiskAnalysis)** A machine learning project predicting chronic health risks with **80% accuracy** using LightGBM and Logistic Regression.
 
 ---
 
