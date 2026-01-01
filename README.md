@@ -17,12 +17,12 @@ I enjoy working on complex architectural problems through code and collaborating
 
 ### 📌 Featured Projects
 
-⚔️ **[Crypt Arena (Network Programming)](https://github.com/zeynepcagil/GameServer)** A real-time multiplayer CLI game built with a **Hybrid TCP/UDP Architecture**.  
+⚔️ **[Crypt Arena (Network Programming)](https://github.com/zeynepcagil/CryptArena-Multiplayer-Battle)** A real-time multiplayer CLI game built with a **Hybrid TCP/UDP Architecture**.  
 * **Tech:** C#, .NET Sockets, Multi-threading, Mutex/Locks.  
 * **Key Features:** Implemented a **thread-safe server** to prevent race conditions, used TCP for reliable state management and UDP for high-frequency movement updates.  
 * 📄 Includes a comprehensive technical paper in IEEE format.
 
-📚 **[Library Automation System](https://github.com/zeynepcagil/LibraryProject)** A full-stack web application for managing library operations.  
+📚 **[Library Automation System](https://github.com/zeynepcagil/LibraryWebProject)** A full-stack web application for managing library operations.  
 * **Tech:** ASP.NET MVC, SQL Server, Entity Framework, Bootstrap.  
 * **Role:** Co-developed the **Backend Architecture** in a collaborative environment. Managed database schemas, controller logic, and complex Git workflows (branches/merges).
 
